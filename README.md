@@ -19,3 +19,6 @@ Product designer with 7+ years of experience transitioning into frontend enginee
 ---
 
 *Bringing the benefits of a developer with strong design skills to every project I work on.*
+
+### 📈 Side Interests
+I'm also passionate about algorithmic trading and have built several Python trading systems and MT5 Expert Advisors (EAs) to automate forex trading activities. This has given me additional experience with data analysis, API integrations, and systematic thinking about complex problems.
