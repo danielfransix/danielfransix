@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-<!--
-**danielfransix/danielfransix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Product designer with 7+ years of experience transitioning into frontend engineering. I bring a unique perspective combining strong design skills with hands-on development experience.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on ** a suite of react components I plan to open-source** while building my development portfolio
+- 🌱 I'm currently learning **React, TypeScript, and ThreeJS** to deepen my technical skills
+- 👯 I'm looking to collaborate on **open source projects** and **frontend applications** where design meets development
+- 🤔 I'm looking for help with **best practices in React architecture** and **advanced JavaScript patterns**
+- 💬 Ask me about **UI/UX design**, **design systems**, **Figma to code workflows**, and **bridging the gap between design and development**
+- 📫 How to reach me: **[Email me](danielfransix@gmail.com)** or connect via my [portfolio](https://danielfransix.framer.website/)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I've been writing and contributing to frontend codebases for the past year while maintaining my design work!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🌐 **Portfolio**: [danielfransix.framer.website](https://danielfransix.framer.website/)
+- 📄 **Resume**: [View my resume](https://docs.google.com/document/d/1znTGK9pUxtfeKmeJYMSuzURRFwNP7sisgBhmhFJqO3Q/edit?usp=sharing)
+
+---
+
+*Bringing the benefits of a developer with strong design skills to every project I work on.*
